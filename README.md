@@ -19,6 +19,6 @@ Read more at https://makecode.microbit.org/packages/build-your-own
 
 ## Supported targets
 
-* for PXT/microbit
+* for PXT/calliope
 (The metadata above is needed for package search.)
 
